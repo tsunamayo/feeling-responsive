@@ -2,17 +2,18 @@
   url: "/"
   side: left
   
+- title: About
+  url: "/About/"
+  side: left
+  
 - title: Trailer
-  url: "/Screenshots/"
+  url: "/Trailer/"
   side: left
 
-- title: Getting Started
+- title: Screenshots/
   url: "/Screenshots/"
   side: left
 
 - title: Blog
   url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  side: right
